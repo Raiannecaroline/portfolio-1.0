@@ -38,7 +38,7 @@ const Principal: React.FC = () => {
             {/* Imagem */}
             <div className="flex justify-center lg:justify-end">
               <img
-                src="/src/images/raiane.jpg"
+                src="https://tinyurl.com/msvzd5fr"
                 alt="Raiane Caroline"
                 className="w-60 h-60 rounded-full object-cover transition-transform transform hover:scale-105"
               />
